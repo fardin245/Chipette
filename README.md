@@ -2,7 +2,7 @@
 Chip-8 Interpreter written in C. 
 
 ## State of Development
-Currently playable. All standard instructions of the original chip-8 work. Passes all flags and quirks for the chip-8 according to the test suite at [Timendus' Chip-8 Test Suite](https://github.com/Timendus/chip8-test-suite?tab=readme-ov-file#quirks-test). 
+Currently playable. All standard instructions of the original chip-8 work. Passes all flags and quirks for the chip-8 according to the test suite at [Timendus' Chip-8 Test Suite](https://github.com/Timendus/chip8-test-suite?tab=readme-ov-file#chip-8-test-suite). 
 
 ![Screenshot 2025-02-20 170242](https://github.com/user-attachments/assets/83b3c014-e1be-4d1f-a739-389a61b35c1d)
 
