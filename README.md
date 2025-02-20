@@ -8,7 +8,7 @@ Currently playable. All standard instructions of the original chip-8 work. Passe
 
 The interpreter displays current state of emulation (Active/Paused), debug state (enabled/disabled), and different platforms (Chip-8/SuperChip/XO-Chip). Of the platforms, only the original Chip-8 is implemented currently, so changing to SuperChip/XO-Chip won't do anything. Debug mode slows down emulation to 1 instruction per second and displays debug information on the terminal. 
 
-## To-do:
+## To-do
 - Add SuperChip and XO-Chip support
 - Improve debug mode
 - Add emulation cycles control
