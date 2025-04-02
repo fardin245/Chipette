@@ -1,0 +1,17 @@
+# Build output
+*.o
+*.obj
+*.exe
+*.dll
+
+# IDE specific files
+.vscode/
+.vs/
+*.swp
+*.swo
+*~
+
+# ROM files
+*.ch8
+*.rom
+*.bin
