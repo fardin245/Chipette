@@ -4,15 +4,10 @@ Chip-8 Interpreter written in C.
 ## State of Development
 Currently playable. All standard instructions of the original chip-8 work. Passes all flags and quirks for the chip-8 according to the test suite at [Timendus' Chip-8 Test Suite](https://github.com/Timendus/chip8-test-suite?tab=readme-ov-file#chip-8-test-suite). 
 
-![Screenshot 2025-02-20 170242](https://github.com/user-attachments/assets/83b3c014-e1be-4d1f-a739-389a61b35c1d)
+![Screenshot 2025-04-02 223251](https://github.com/user-attachments/assets/1541bab9-4d9a-4c35-8acc-563fddbe77a7)
+
 
 The interpreter displays current state of emulation (Active/Paused), debug state (enabled/disabled), and different platforms (Chip-8/SuperChip/XO-Chip). Of the platforms, only the original Chip-8 is implemented currently, so changing to SuperChip/XO-Chip won't do anything. Debug mode slows down emulation to 1 instruction per second and displays debug information on the terminal. 
-
-## To-do
-- Add SuperChip and XO-Chip support
-- Improve debug mode
-- Add emulation cycles control
-- Eliminate flickering
 
 ## Controls
 The keypad:
